@@ -1,3 +1,8 @@
 /.c9
 npm-debug*
+asdf
 README.md
+/Flask_server/leptonica-1.75.3
+/Flask_server/tesseract-3.05.01
+/Flask_server/*c9*
+*.pyc

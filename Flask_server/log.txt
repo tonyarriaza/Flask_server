@@ -1,0 +1,27 @@
+71.114.39.47 - - [18/Jun/2018 21:11:48] "POST / HTTP/1.1" 200 -
+23.121.237.31 - - [18/Jun/2018 21:12:06] "POST / HTTP/1.1" 200 -
+71.114.39.47 - - [18/Jun/2018 21:16:15] "GET / HTTP/1.1" 200 -
+71.114.39.47 - - [18/Jun/2018 21:19:11] "POST / HTTP/1.1" 500 -
+71.114.39.47 - - [18/Jun/2018 21:19:11] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+71.114.39.47 - - [18/Jun/2018 21:19:11] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+71.114.39.47 - - [18/Jun/2018 21:19:11] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+71.114.39.47 - - [18/Jun/2018 21:19:11] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+71.114.39.47 - - [18/Jun/2018 21:19:11] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+71.114.39.47 - - [18/Jun/2018 21:19:11] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+71.114.39.47 - - [18/Jun/2018 21:20:05] "POST / HTTP/1.1" 200 -
+71.114.39.47 - - [18/Jun/2018 21:21:33] "GET / HTTP/1.1" 200 -
+71.114.39.47 - - [18/Jun/2018 21:21:39] "POST / HTTP/1.1" 200 -
+71.114.39.47 - - [18/Jun/2018 21:32:14] "GET / HTTP/1.1" 200 -
+196.52.43.114 - - [19/Jun/2018 00:32:48] "GET / HTTP/1.0" 200 -
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 331-003-343
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 331-003-343
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 278-016-110
